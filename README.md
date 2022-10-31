@@ -1,1 +1,1 @@
-# pc31110
+pensamento computacional 31/10
